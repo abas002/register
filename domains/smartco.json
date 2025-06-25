@@ -3,6 +3,6 @@
         "username": "abas002"
     },
     "records": {
-        "NS": ["ns1.example.com", "ns2.example.com"]
+        "NS": ["h.ns.arvancdn.ir", "o.ns.arvancdn.ir"]
     }
 }
